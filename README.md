@@ -1,6 +1,6 @@
 # AI_with_Computer_Vision
 
-My repositories here are focused on building and exploring innovative AI and CV solutions that can bring real-world impact. From deep learning models for image and video analysis to natural language processing applications, I am constantly exploring new possibilities to push the boundaries of AI and CV. Feel free to explore my repositories and join me on this exciting journey towards a smarter and more connected future.
+My repositories here is focused on building and exploring innovative AI and CV solutions that can bring real-world impact. From deep learning models for image and video analysis to natural language processing applications, I am constantly exploring new possibilities to push the boundaries of AI and CV. Feel free to explore my repositories and join me on this exciting journey towards a smarter and more connected future.
 
 ## Acknowledgements
 
